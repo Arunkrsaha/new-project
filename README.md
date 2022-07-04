@@ -3,7 +3,8 @@ This is fronted web development project by using HTML and CSS.Here I create home
 
 ## My website link: link https://witty-pond-093cb8e10.1.azurestaticapps.net/
 
-##Screenshot of my website
+## Screenshot of my website
+
 ![11](https://user-images.githubusercontent.com/108371851/177219609-76c21b86-4dd6-452e-8ced-7b8fde7fc24c.png)
 
 ![12](https://user-images.githubusercontent.com/108371851/177219638-eb068cf6-394c-45cc-8281-fa4e18fd08ab.png)
